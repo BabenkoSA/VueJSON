@@ -16,8 +16,9 @@
         }
     },
     {
-        "title": "Boston Bruins",
-        "src": "https://s-media-cache-ak0.pinimg.com/originals/76/82/87/7682872f5940249dba92d196e2c07873.png",
+        "title": "Baltimore Ravens",
+        "src": "../static/img/helmets/ravens_helmet.jpg",
+	"linkimg": "../static/img/linkslogos/ravens.jpg",
         "description": {
           "name-article" : "Some description",
           "name-article" : "Some description",
@@ -25,8 +26,9 @@
         }
     },
     {
-        "title": "San Jose Sharks",
-        "src": "https://s-media-cache-ak0.pinimg.com/originals/d8/24/fa/d824fa4d53ecf5d071f2c1ca8ef3f858.jpg",
+        "title": "Pittsburgh Steelers",
+        "src": "../static/img/helmets/steelers_helmet.jpg",
+	"linkimg": "../static/img/linkslogos/steelers.jpg",
         "description": {
           "name-article" : "Some description",
           "name-article" : "Some description",
@@ -34,8 +36,9 @@
         }
     },
     {
-        "title": "jQuery",
-        "src": "https://pm1.narvii.com/6468/89872cefc25fb8d57b814ca145b166ef9a580293_hq.jpg",
+        "title": "Washington Redskins",
+        "src": "../static/img/helmets/redskins_helmet.jpg",
+	"linkimg": "../static/img/linkslogos/redskins.png",
         "description": {
           "name-article" : "Some description",
           "name-article" : "Some description",
@@ -43,8 +46,9 @@
         }
     },
     {
-        "title": "React.js",
-        "src":"../static/img/react.png",
+        "title": "Oakland Raiders",
+        "src": "../static/img/helmets/raiders_helmet.jpg",
+	"linkimg": "../static/img/linkslogos/raiders.jpg",
         "description": {
           "name-article" : "Some description",
           "name-article" : "Some description",
@@ -52,22 +56,14 @@
         }
     },
     {
-        "title": "Vue.js",
-        "src":"../static/img/vuejs.png",
+        "title": "San Francisco 49ers",
+        "src": "../static/img/helmets/49ers_helmet.jpg",
+	"linkimg": "../static/img/linkslogos/49ers.png",
         "description": {
           "name-article" : "Some description",
           "name-article" : "Some description",
           "name-article" : "Some description"
         }
     },
-    {
-        "title": "Angular.js",
-        "src":"../static/img/angular.png",
-        "description": {
-          "name-article" : "Some description",
-          "name-article" : "Some description",
-          "name-article" : "Some description"
-        }
-    }
   ]
 }
