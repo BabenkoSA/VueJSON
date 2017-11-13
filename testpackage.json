@@ -1,0 +1,72 @@
+{
+  "navigation" : [
+    {
+        "title": "Html5",
+        "src": "https://orig00.deviantart.net/c29f/f/2012/050/1/4/200x200_png_by_forgedvisions-d4qb62b.png",
+        "description": {
+          "name-article" : "HTML5 — последняя версия стандарта HTML. Термин имеет два определения: Новая версия языка HTML, с новыми элементами, атрибутами и новым поведением. Набор технологий, позволяющий создавать разнообразные сайты и Web-приложения.",
+          "name-article" : "позволяет точнее описывать, что из себя представляет ваш контент",
+          "name-article" : "новые способы общения с сервером",
+          "name-article" : "создание изощренных и совершенных тем",
+          "name-article" : " использование разных устройств для ввода и вывода информации",
+          "name-article" : "способы значительно разнообразить  представление",
+          "name-article" : "создание и взаимодействие с видео и звуком",
+          "name-article" : "методы, позволяющие сохранять информацию локально на стороне клиента"
+        }
+    },
+    {
+        "title": "CSS3",
+        "src": "https://cdn.iconverticons.com/files/png/8b00aa6e8d7c8ab4_256x256.png",
+        "description": {
+          "name-article" : "Some description",
+          "name-article" : "Some description",
+          "name-article" : "Some description"
+        }
+    },
+    {
+        "title": "JavaScript",
+        "src": "https://avatars2.githubusercontent.com/u/651104?s=400&v=4",
+        "description": {
+          "name-article" : "Some description",
+          "name-article" : "Some description",
+          "name-article" : "Some description"
+        }
+    },
+    {
+        "title": "jQuery",
+        "src": "https://pm1.narvii.com/6468/89872cefc25fb8d57b814ca145b166ef9a580293_hq.jpg",
+        "description": {
+          "name-article" : "Some description",
+          "name-article" : "Some description",
+          "name-article" : "Some description"
+        }
+    },
+    {
+        "title": "React.js",
+        "src":"../static/img/react.png",
+        "description": {
+          "name-article" : "Some description",
+          "name-article" : "Some description",
+          "name-article" : "Some description"
+        }
+    },
+    {
+        "title": "Vue.js",
+        "src":"../static/img/vuejs.png",
+        "description": {
+          "name-article" : "Some description",
+          "name-article" : "Some description",
+          "name-article" : "Some description"
+        }
+    },
+    {
+        "title": "Angular.js",
+        "src":"../static/img/angular.png",
+        "description": {
+          "name-article" : "Some description",
+          "name-article" : "Some description",
+          "name-article" : "Some description"
+        }
+    }
+  ]
+}
