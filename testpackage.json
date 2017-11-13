@@ -1,8 +1,9 @@
 {
   "navigation" : [
     {
-        "title": "Html5",
-        "src": "https://orig00.deviantart.net/c29f/f/2012/050/1/4/200x200_png_by_forgedvisions-d4qb62b.png",
+        "title": "New Orleans Saints",
+        "src": "../static/img/helmets/saints_helmet.jpg",
+	"linkimg": "../static/img/linkslogos/saints.jpg",
         "description": {
           "name-article" : "HTML5 — последняя версия стандарта HTML. Термин имеет два определения: Новая версия языка HTML, с новыми элементами, атрибутами и новым поведением. Набор технологий, позволяющий создавать разнообразные сайты и Web-приложения.",
           "name-article" : "позволяет точнее описывать, что из себя представляет ваш контент",
@@ -15,8 +16,8 @@
         }
     },
     {
-        "title": "CSS3",
-        "src": "https://cdn.iconverticons.com/files/png/8b00aa6e8d7c8ab4_256x256.png",
+        "title": "Boston Bruins",
+        "src": "https://s-media-cache-ak0.pinimg.com/originals/76/82/87/7682872f5940249dba92d196e2c07873.png",
         "description": {
           "name-article" : "Some description",
           "name-article" : "Some description",
@@ -24,8 +25,8 @@
         }
     },
     {
-        "title": "JavaScript",
-        "src": "https://avatars2.githubusercontent.com/u/651104?s=400&v=4",
+        "title": "San Jose Sharks",
+        "src": "https://s-media-cache-ak0.pinimg.com/originals/d8/24/fa/d824fa4d53ecf5d071f2c1ca8ef3f858.jpg",
         "description": {
           "name-article" : "Some description",
           "name-article" : "Some description",
