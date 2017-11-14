@@ -1,56 +1,56 @@
 {
-  "navigation" : [
+  "navigation": [
     {
-        "title": "New Orleans Saints",
-	"router-path": "/saints",
-        "src": "../static/img/helmets/saints_helmet.jpg",
-	"linkimg": "../static/img/linkslogos/saints.jpg",
-        "description": [
-          'The Pittsburgh Steelers are a professional American football team based in Pittsburgh, Pennsylvania. The Steelers compete in the National Football League (NFL), as a member club of the league's American Football Conference (AFC) North division. Founded in 1933, the Steelers are the oldest franchise in the AFC.',
-	  'The Pittsburgh Steelers of the NFL first took to the field as the Pittsburgh Pirates on September 20, 1933, losing 23–2 to the New York Giants. Through the 1930s, the Pirates never finished higher than second place in their division, or with a record better than .500 (1936). Pittsburgh did make history in 1938 by signing Byron White, a future Justice of the U.S. Supreme Court, to what was at the time the biggest contract in NFL history,[9] but he played only one year with the Pirates before signing with the Detroit Lions.[10] Prior to the 1940 season, the Pirates renamed themselves the Steelers.',
-	  'During World War II, the Steelers experienced player shortages. They twice merged with other NFL franchises to field a team. During the 1943 season, they merged with the Philadelphia Eagles forming the "Phil-Pitt Eagles" and were known as the "Steagles". This team went 5–4–1. In 1944, they merged with the Chicago Cardinals and were known as Card-Pitt (or, mockingly, as the "Carpets"). This team finished 0–10, marking the only winless team in franchise history.'
-        ],
-	"videolink": "https://www.youtube.com/embed/miIzxCuRYDs"
+      "title": "New Orleans Saints",
+      "router-path": "/saints",
+      "src": "../static/img/helmets/saints_helmet.jpg",
+      "linkimg": "../static/img/linkslogos/saints.jpg",
+      "description": [
+        "The Pittsburgh Steelers are a professional American football team based in Pittsburgh, Pennsylvania. The Steelers compete in the National Football League (NFL), as a member club of the league's American Football Conference (AFC) North division. Founded in 1933, the Steelers are the oldest franchise in the AFC.",
+        "The Pittsburgh Steelers of the NFL first took to the field as the Pittsburgh Pirates on September 20, 1933, losing 23–2 to the New York Giants. Through the 1930s, the Pirates never finished higher than second place in their division, or with a record better than .500 (1936). Pittsburgh did make history in 1938 by signing Byron White, a future Justice of the U.S. Supreme Court, to what was at the time the biggest contract in NFL history,[9] but he played only one year with the Pirates before signing with the Detroit Lions.[10] Prior to the 1940 season, the Pirates renamed themselves the Steelers.",
+        "During World War II, the Steelers experienced player shortages. They twice merged with other NFL franchises to field a team. During the 1943 season, they merged with the Philadelphia Eagles forming the \"Phil-Pitt Eagles\" and were known as the \"Steagles\". This team went 5–4–1. In 1944, they merged with the Chicago Cardinals and were known as Card-Pitt (or, mockingly, as the \"Carpets\"). This team finished 0–10, marking the only winless team in franchise history."
+      ],
+      "videolink": "https://www.youtube.com/embed/miIzxCuRYDs"
     },
     {
-        "title": "Baltimore Ravens",
-        "src": "../static/img/helmets/ravens_helmet.jpg",
-	"linkimg": "../static/img/linkslogos/ravens.jpg",
-        "description": {
-          "team-info" : "some team info"
-        }
+      "title": "Baltimore Ravens",
+      "src": "../static/img/helmets/ravens_helmet.jpg",
+      "linkimg": "../static/img/linkslogos/ravens.jpg",
+      "description": {
+        "team-info": "some team info"
+      }
     },
     {
-        "title": "Pittsburgh Steelers",
-        "src": "../static/img/helmets/steelers_helmet.jpg",
-	"linkimg": "../static/img/linkslogos/steelers.jpg",
-        "description": {
-          "team-info" : "some team info"
-        }
+      "title": "Pittsburgh Steelers",
+      "src": "../static/img/helmets/steelers_helmet.jpg",
+      "linkimg": "../static/img/linkslogos/steelers.jpg",
+      "description": {
+        "team-info": "some team info"
+      }
     },
     {
-        "title": "Washington Redskins",
-        "src": "../static/img/helmets/redskins_helmet.jpg",
-	"linkimg": "../static/img/linkslogos/redskins.png",
-        "description": {
-          "team-info" : "some team info"
-        }
+      "title": "Washington Redskins",
+      "src": "../static/img/helmets/redskins_helmet.jpg",
+      "linkimg": "../static/img/linkslogos/redskins.png",
+      "description": {
+        "team-info": "some team info"
+      }
     },
     {
-        "title": "Oakland Raiders",
-        "src": "../static/img/helmets/raiders_helmet.jpg",
-	"linkimg": "../static/img/linkslogos/raiders.jpg",
-        "description": {
-          "team-info" : "some team info"
-        }
+      "title": "Oakland Raiders",
+      "src": "../static/img/helmets/raiders_helmet.jpg",
+      "linkimg": "../static/img/linkslogos/raiders.jpg",
+      "description": {
+        "team-info": "some team info"
+      }
     },
     {
-        "title": "San Francisco 49ers",
-        "src": "../static/img/helmets/49ers_helmet.jpg",
-	"linkimg": "../static/img/linkslogos/49ers.png",
-        "description": {
-          "team-info" : "some team info"
-        }
+      "title": "San Francisco 49ers",
+      "src": "../static/img/helmets/49ers_helmet.jpg",
+      "linkimg": "../static/img/linkslogos/49ers.png",
+      "description": {
+        "team-info": "some team info"
+      }
     }
   ]
 }
