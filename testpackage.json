@@ -2,7 +2,7 @@
   "navigation": [
     {
       "title": "New Orleans Saints",
-      "routerPath": "saints",
+      "routerPath": "/saints",
       "src": "../static/img/helmets/saints_helmet.jpg",
       "linkimg": "../static/img/linkslogos/saints.jpg",
       "description": [
