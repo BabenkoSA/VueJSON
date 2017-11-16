@@ -15,9 +15,9 @@
       "routerPath": "/ravens",
       "src": "../static/img/helmets/ravens_helmet.jpg",
       "linkimg": "../static/img/linkslogos/ravens.jpg",
-      "description": {
-        "team-info": "some team info"
-      }
+      "description": [
+        "some team info"
+      ]
     },
     {
       "title": "Pittsburgh Steelers",
@@ -36,27 +36,27 @@
       "routerPath": "/redskins",
       "src": "../static/img/helmets/redskins_helmet.jpg",
       "linkimg": "../static/img/linkslogos/redskins.png",
-      "description": {
-        "team-info": "some team info"
-      }
+      "description": [
+        "some team info"
+      ]
     },
     {
       "title": "Oakland Raiders",
       "routerPath": "/raiders",
       "src": "../static/img/helmets/raiders_helmet.jpg",
       "linkimg": "../static/img/linkslogos/raiders.jpg",
-      "description": {
-        "team-info": "some team info"
-      }
+      "description": [
+        "some team info"
+      ]
     },
     {
       "title": "San Francisco 49ers",
       "routerPath": "/49ers",
       "src": "../static/img/helmets/49ers_helmet.jpg",
       "linkimg": "../static/img/linkslogos/49ers.png",
-      "description": {
-        "team-info": "some team info"
-      }
+      "description": [
+        "some team info"
+      ]
     }
   ]
 }
