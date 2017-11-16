@@ -12,6 +12,7 @@
     },
     {
       "title": "Baltimore Ravens",
+      "routerPath": "/ravens",
       "src": "../static/img/helmets/ravens_helmet.jpg",
       "linkimg": "../static/img/linkslogos/ravens.jpg",
       "description": {
@@ -20,6 +21,7 @@
     },
     {
       "title": "Pittsburgh Steelers",
+      "routerPath": "/steelers",
       "src": "../static/img/helmets/steelers_helmet.jpg",
       "linkimg": "../static/img/linkslogos/steelers.jpg",
       "description": [
@@ -31,6 +33,7 @@
     },
     {
       "title": "Washington Redskins",
+      "routerPath": "/redskins",
       "src": "../static/img/helmets/redskins_helmet.jpg",
       "linkimg": "../static/img/linkslogos/redskins.png",
       "description": {
@@ -39,6 +42,7 @@
     },
     {
       "title": "Oakland Raiders",
+      "routerPath": "/raiders",
       "src": "../static/img/helmets/raiders_helmet.jpg",
       "linkimg": "../static/img/linkslogos/raiders.jpg",
       "description": {
@@ -47,6 +51,7 @@
     },
     {
       "title": "San Francisco 49ers",
+      "routerPath": "/49ers",
       "src": "../static/img/helmets/49ers_helmet.jpg",
       "linkimg": "../static/img/linkslogos/49ers.png",
       "description": {
